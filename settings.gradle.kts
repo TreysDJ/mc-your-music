@@ -1,0 +1,1 @@
+rootProject.name = "mc-your-music"
