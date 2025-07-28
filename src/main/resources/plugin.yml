@@ -1,0 +1,7 @@
+name: YourMusic
+version: 0.0.1
+main: bro.maks.musicplugin.PluginRunner
+description: A plugin to listen to your own music
+author: TreysDJ
+website: https://github.com/TreysDJ/mc-your-music
+api-version: '1.21.8'
